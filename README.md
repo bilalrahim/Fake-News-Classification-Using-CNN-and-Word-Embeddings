@@ -1,6 +1,6 @@
 # Fake-News-Text-Classification-Using-CNN-and-Word-Embeddings
 
-# Dataset From https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+## Dataset From https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 
 ## Steps include
 
